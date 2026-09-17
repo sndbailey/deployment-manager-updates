@@ -1,0 +1,8 @@
+{
+  "version": "3.8",
+  "build": "10.1",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.1/DeploymentManager-Setup-3.8-Build-10.1.exe",
+  "sha256": "A76DAE4107CB83719C4CE4265D099DDA1C6529597FA03FB628F0F30E63383839",
+  "notes": "Self-update support plus Dell Command Update watchdog and BIOS capability handling.",
+  "tag": "v3.8-build-10.1"
+}
