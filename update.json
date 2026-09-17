@@ -1,8 +1,8 @@
 {
   "version": "3.8",
-  "build": "10.2",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.2/DeploymentManager-Setup-3.8-Build-10.2.exe",
-  "sha256": "240E420EDBA0C85B43B3A1675A3AF61E81C3EA8C8F6823DD00F7EFAACD716B26",
-  "notes": "Improved Dell Command Update status reporting and stale-process handling.",
-  "tag": "v3.8-build-10.2"
+  "build": "10.3",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.3/DeploymentManager-Setup-3.8-Build-10.3.exe",
+  "sha256": "F2FDD1E92202D77D86A63D4214EBDE67BB65DC4A73AC339DD9155AB5F20D2FE8",
+  "notes": "New Master and Portable application icons plus streamlined silent self-update installation.",
+  "tag": "v3.8-build-10.3"
 }
