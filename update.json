@@ -1,8 +1,8 @@
 {
   "version": "3.8",
-  "build": "10.3",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.3/DeploymentManager-Setup-3.8-Build-10.3.exe",
-  "sha256": "F2FDD1E92202D77D86A63D4214EBDE67BB65DC4A73AC339DD9155AB5F20D2FE8",
-  "notes": "New Master and Portable application icons plus streamlined silent self-update installation.",
-  "tag": "v3.8-build-10.3"
+  "build": "10.5",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.5/DeploymentManager-Setup-3.8-Build-10.5.exe",
+  "sha256": "0E68C52CE137A6914E9464FBFD92D6FFEE52B6D17D25388930C54CFD50C2558F",
+  "notes": "Modernizes the Windows installer, keeps update-button text readable during downloads, fixes the Installed Apps icon, and retains the startup update notification.",
+  "tag": "v3.8-build-10.5"
 }
