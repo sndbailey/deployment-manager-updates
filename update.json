@@ -1,8 +1,8 @@
 {
   "version": "3.9",
-  "build": "11.12",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.12/DeploymentManager-Setup-3.9-Build-11.12.exe",
-  "sha256": "E568A43665A859C1C3C3FE7851E35716E0C6EA78608EF70A13E81D133F16B87A",
-  "notes": "Adds USB-local Power & BIOS profile editing under Portable > Software while preserving Master-managed software content and all Portable SHA-256 verification/repair behavior.",
-  "tag": "v3.9-build-11.12"
+  "build": "11.13",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.13/DeploymentManager-Setup-3.9-Build-11.13.exe",
+  "sha256": "E49CAB52A9EF276AA2FC4952186541DD916D4FD41BD1DAC750E4054A7E763F94",
+  "notes": "Keeps the Deploy New PC company selection synchronized with Manage Companies so technicians do not have to select the same customer twice; retains all prior Portable, licensing, Dell, Power & BIOS, and Microsoft 365 behavior.",
+  "tag": "v3.9-build-11.13"
 }
