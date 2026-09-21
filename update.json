@@ -1,8 +1,8 @@
 {
-  "version": "3.8",
-  "build": "10.7",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.7/DeploymentManager-Setup-3.8-Build-10.7.exe",
-  "sha256": "E03620F9CCE7B07C7A29FB5763CEDB3E73456D8BE9558353F3CFB6DA313112CC",
-  "notes": "Hardens Dell desktop Wake-on-LAN BIOS verification by requiring post-write read-back and retrying through Dell Command Configure when WMI does not actually retain the requested value.",
-  "tag": "v3.8-build-10.7"
+  "version": "3.9",
+  "build": "11.0",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.0/DeploymentManager-Setup-3.9-Build-11.0.exe",
+  "sha256": "A4D0A6AE49A49F9B1AA34AA445C7224D0BAB59B53D3DD3EABCA631C9CA18CA46",
+  "notes": "Adds Power & BIOS profiles, signed licensing with a 7-day trial, optional Microsoft 365 / Entra user preparation, and Portable-media SHA-256 verification/repair.",
+  "tag": "v3.9-build-11.0"
 }
