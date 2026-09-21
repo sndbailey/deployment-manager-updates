@@ -1,8 +1,8 @@
 {
   "version": "3.9",
-  "build": "11.8",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.8/DeploymentManager-Setup-3.9-Build-11.8.exe",
-  "sha256": "85E89BE9437E53E4C6AD25EF05CA9C19F1E82F3C89292112DE2B081DEE768E72",
-  "notes": "Makes Dell Command Update version-controlled: mismatched installed versions are replaced with the approved Common Software package and verified before Dell update passes.",
-  "tag": "v3.9-build-11.8"
+  "build": "11.9",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.9/DeploymentManager-Setup-3.9-Build-11.9.exe",
+  "sha256": "9564E0332222A51EE03E932BBF277F88DAF580083B875887ED64F9DBF3B52AEC",
+  "notes": "Fixes Portable media SHA-256 verification and repair, including printer-driver archives and same-size stale/corrupt DeploymentData objects.",
+  "tag": "v3.9-build-11.9"
 }
