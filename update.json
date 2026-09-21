@@ -1,8 +1,8 @@
 {
   "version": "3.9",
-  "build": "11.11",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.11/DeploymentManager-Setup-3.9-Build-11.11.exe",
-  "sha256": "F5CE07F8EAFDDEBFC1C55505B364E79E1AD39891FA96495BE9D6869A89315A86",
+  "build": "11.12",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.12/DeploymentManager-Setup-3.9-Build-11.12.exe",
+  "sha256": "E568A43665A859C1C3C3FE7851E35716E0C6EA78608EF70A13E81D133F16B87A",
   "notes": "Adds USB-local Power & BIOS profile editing under Portable > Software while preserving Master-managed software content and all Portable SHA-256 verification/repair behavior.",
-  "tag": "v3.9-build-11.11"
+  "tag": "v3.9-build-11.12"
 }
