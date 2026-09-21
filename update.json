@@ -1,8 +1,8 @@
 {
   "version": "3.8",
-  "build": "10.5",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.5/DeploymentManager-Setup-3.8-Build-10.5.exe",
-  "sha256": "0E68C52CE137A6914E9464FBFD92D6FFEE52B6D17D25388930C54CFD50C2558F",
-  "notes": "Modernizes the Windows installer, keeps update-button text readable during downloads, fixes the Installed Apps icon, and retains the startup update notification.",
-  "tag": "v3.8-build-10.5"
+  "build": "10.7",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.8-build-10.7/DeploymentManager-Setup-3.8-Build-10.7.exe",
+  "sha256": "E03620F9CCE7B07C7A29FB5763CEDB3E73456D8BE9558353F3CFB6DA313112CC",
+  "notes": "Hardens Dell desktop Wake-on-LAN BIOS verification by requiring post-write read-back and retrying through Dell Command Configure when WMI does not actually retain the requested value.",
+  "tag": "v3.8-build-10.7"
 }
