@@ -1,8 +1,8 @@
 {
   "version": "3.9",
-  "build": "11.6",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.6/DeploymentManager-Setup-3.9-Build-11.6.exe",
-  "sha256": "802B23A5A51A2F12429AE6F3F07CC9D3591AF02A5FF77A70A3A182A0E326E7DA",
+  "build": "11.8",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.8/DeploymentManager-Setup-3.9-Build-11.8.exe",
+  "sha256": "85E89BE9437E53E4C6AD25EF05CA9C19F1E82F3C89292112DE2B081DEE768E72",
   "notes": "Makes Dell Command Update version-controlled: mismatched installed versions are replaced with the approved Common Software package and verified before Dell update passes.",
-  "tag": "v3.9-build-11.6"
+  "tag": "v3.9-build-11.8"
 }
