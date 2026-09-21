@@ -1,8 +1,8 @@
 {
   "version": "3.9",
-  "build": "11.9",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.9/DeploymentManager-Setup-3.9-Build-11.9.exe",
-  "sha256": "9564E0332222A51EE03E932BBF277F88DAF580083B875887ED64F9DBF3B52AEC",
-  "notes": "Fixes Portable media SHA-256 verification and repair, including printer-driver archives and same-size stale/corrupt DeploymentData objects.",
-  "tag": "v3.9-build-11.9"
+  "build": "11.11",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.11/DeploymentManager-Setup-3.9-Build-11.11.exe",
+  "sha256": "F5CE07F8EAFDDEBFC1C55505B364E79E1AD39891FA96495BE9D6869A89315A86",
+  "notes": "Adds USB-local Power & BIOS profile editing under Portable > Software while preserving Master-managed software content and all Portable SHA-256 verification/repair behavior.",
+  "tag": "v3.9-build-11.11"
 }
