@@ -1,8 +1,8 @@
 {
   "version": "3.9",
-  "build": "11.0",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.0/DeploymentManager-Setup-3.9-Build-11.0.exe",
-  "sha256": "A4D0A6AE49A49F9B1AA34AA445C7224D0BAB59B53D3DD3EABCA631C9CA18CA46",
-  "notes": "Adds Power & BIOS profiles, signed licensing with a 7-day trial, optional Microsoft 365 / Entra user preparation, and Portable-media SHA-256 verification/repair.",
-  "tag": "v3.9-build-11.0"
+  "build": "11.2",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.2/DeploymentManager-Setup-3.9-Build-11.2.exe",
+  "sha256": "DAF908C0876BA7924550FDE4CDE975A72338EFCF5AB889BBECEC088A3F909604",
+  "notes": "Adds persistent registration across updates/reinstalls, Registered/Unregistered footer status, and one-record-per-installation license tracking with expiration status.",
+  "tag": "v3.9-build-11.2"
 }
