@@ -1,8 +1,8 @@
 {
   "version": "4.1",
-  "build": "12.1",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.1/DeploymentManager-Setup-4.1-Build-12.1.exe",
-  "sha256": "B6ED7A2E23FACBCD00188BFB70147061E74639311FED9E868F26F7A068124513",
-  "notes": "Build 12.1 simplifies Portable Microsoft 365 preparation: no user email is required. One checkbox stages policies for every future new profile; Entra users use their own Windows sign-in identity and local accounts require manual Microsoft 365 setup.",
-  "tag": "v4.1-build-12.1"
+  "build": "12.2",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.2/DeploymentManager-Setup-4.1-Build-12.2.exe",
+  "sha256": "3CFD4AE5F4C729488777C775D22930FE2497C527AF840BE8131C2102DA481466",
+  "notes": "Build 12.2 improves new-user Microsoft 365 setup: New Outlook is pinned instead of legacy Outlook, Office SSO is staged for new profiles, and Finish & Clean Up reliably removes the Entra DeviceInstaller account from local Administrators.",
+  "tag": "v4.1-build-12.2"
 }
