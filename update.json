@@ -1,8 +1,8 @@
 {
   "version": "4.1",
-  "build": "12.4",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.4/DeploymentManager-Setup-4.1-Build-12.4.exe",
-  "sha256": "80F43E81498D6377F90333CBD18D046CEC1F3F725671CD47EE198499C3ADE664",
-  "notes": "Build 12.4 adds Office first-run/EULA suppression for future new profiles by staging AcceptAllEulas, ShownFirstRunOptin, BootedRTM and DisableMovie in Default User. Office AutoSignIn and the Build 12.3 one-time 60-second Explorer refresh are retained.",
-  "tag": "v4.1-build-12.4"
+  "build": "12.6",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.6/DeploymentManager-Setup-4.1-Build-12.6.exe",
+  "sha256": "6E842E4478B2F03BAAFC156CE4628411B77047879DE9B499E0BDE4C5DD94A5FC",
+  "notes": "Build 12.6 replaces the unreliable Default User RunOnce trigger with Windows Active Setup. The refresh runs once in each user session without local admin rights, detects Entra S-1-12-1 cloud SIDs, waits for Explorer, then performs the 60-second Office/OneDrive settling refresh. Office first-run/EULA suppression is retained.",
+  "tag": "v4.1-build-12.6"
 }
