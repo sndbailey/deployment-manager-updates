@@ -1,8 +1,8 @@
 {
   "version": "3.9",
-  "build": "11.13",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.13/DeploymentManager-Setup-3.9-Build-11.13.exe",
-  "sha256": "E49CAB52A9EF276AA2FC4952186541DD916D4FD41BD1DAC750E4054A7E763F94",
-  "notes": "Keeps the Deploy New PC company selection synchronized with Manage Companies so technicians do not have to select the same customer twice; retains all prior Portable, licensing, Dell, Power & BIOS, and Microsoft 365 behavior.",
-  "tag": "v3.9-build-11.13"
+  "build": "11.14",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.14/DeploymentManager-Setup-3.9-Build-11.14.exe",
+  "sha256": "10DD5919D0D63FD1ED021B84B3F8863030E2A0BB153595E6B0F34929A0F1299A",
+  "notes": "Adds optional Company > Site > Department hierarchy with inherited installers, scripts, files, printers, and notes; adds Site/Department deployment selection and Portable synchronization while keeping Microsoft 365 settings company-wide.",
+  "tag": "v3.9-build-11.14"
 }
