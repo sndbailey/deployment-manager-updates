@@ -1,8 +1,8 @@
 {
   "version": "4.1",
-  "build": "12.2",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.2/DeploymentManager-Setup-4.1-Build-12.2.exe",
-  "sha256": "3CFD4AE5F4C729488777C775D22930FE2497C527AF840BE8131C2102DA481466",
-  "notes": "Build 12.2 improves new-user Microsoft 365 setup: New Outlook is pinned instead of legacy Outlook, Office SSO is staged for new profiles, and Finish & Clean Up reliably removes the Entra DeviceInstaller account from local Administrators.",
-  "tag": "v4.1-build-12.2"
+  "build": "12.4",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.4/DeploymentManager-Setup-4.1-Build-12.4.exe",
+  "sha256": "80F43E81498D6377F90333CBD18D046CEC1F3F725671CD47EE198499C3ADE664",
+  "notes": "Build 12.4 adds Office first-run/EULA suppression for future new profiles by staging AcceptAllEulas, ShownFirstRunOptin, BootedRTM and DisableMovie in Default User. Office AutoSignIn and the Build 12.3 one-time 60-second Explorer refresh are retained.",
+  "tag": "v4.1-build-12.4"
 }
