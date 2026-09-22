@@ -1,8 +1,8 @@
-{
-  "version": "3.9",
-  "build": "11.14",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v3.9-build-11.14/DeploymentManager-Setup-3.9-Build-11.14.exe",
-  "sha256": "10DD5919D0D63FD1ED021B84B3F8863030E2A0BB153595E6B0F34929A0F1299A",
-  "notes": "Adds optional Company > Site > Department hierarchy with inherited installers, scripts, files, printers, and notes; adds Site/Department deployment selection and Portable synchronization while keeping Microsoft 365 settings company-wide.",
-  "tag": "v3.9-build-11.14"
+
+  "version": "4.1",
+  "build": "12.1",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.1/DeploymentManager-Setup-4.1-Build-12.1.exe",
+  "sha256": "B6ED7A2E23FACBCD00188BFB70147061E74639311FED9E868F26F7A068124513",
+  "notes": "Build 12.1 simplifies Portable Microsoft 365 preparation: no user email is required. One checkbox stages policies for every future new profile; Entra users use their own Windows sign-in identity and local accounts require manual Microsoft 365 setup.",
+  "tag": "v4.1-build-12.1"
 }
