@@ -1,8 +1,8 @@
 {
   "version": "4.1",
-  "build": "12.6",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.6/DeploymentManager-Setup-4.1-Build-12.6.exe",
-  "sha256": "6E842E4478B2F03BAAFC156CE4628411B77047879DE9B499E0BDE4C5DD94A5FC",
-  "notes": "Build 12.6 replaces the unreliable Default User RunOnce trigger with Windows Active Setup. The refresh runs once in each user session without local admin rights, detects Entra S-1-12-1 cloud SIDs, waits for Explorer, then performs the 60-second Office/OneDrive settling refresh. Office first-run/EULA suppression is retained.",
-  "tag": "v4.1-build-12.6"
+  "build": "12.9",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.9/DeploymentManager-Setup-4.1-Build-12.9.exe",
+  "sha256": "5D432AF4CD7EF2A7DC18FF0691C5910F7589EADB34DE9AB215BFE96A134791BE",
+  "notes": "Build 12.9 is rebuilt from the 12.1 baseline and hardens Microsoft 365 first-user preparation, delayed verified Explorer refresh, Office first-run staging, New Outlook/Word/Excel taskbar pins, and DeviceInstaller administrator cleanup without changing the established 12.1 deployment workflow.",
+  "tag": "v4.1-build-12.9"
 }
