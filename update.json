@@ -1,8 +1,8 @@
 {
-  "version": "4.1",
-  "build": "12.11",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.1-build-12.11/DeploymentManager-Setup-4.1-Build-12.11.exe",
-  "sha256": "C4B1CFAD12EBF949BDF7F8F611AA3425FDCC1AC1A1C827B4C061BC18AEDA84FE",
-  "notes": "Build 12.11 adds a dedicated License Generator icon while retaining the validated Build 12.10 Master startup paint fix and Build 12.9 deployment behavior.",
-  "tag": "v4.1-build-12.11"
+  "version": "4.2",
+  "build": "13.0",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.0/DeploymentManager-Setup-4.2-Build-13.0.exe",
+  "sha256": "33F2F3E63E045FC245E2A2848F621F3F98BA74BC7D158FC5BD92DF524BA484F3",
+  "notes": "Version 4.2 adds saved Company/Site/Department software defaults and standalone selected-software installation without running the full deployment workflow.",
+  "tag": "v4.2-build-13.0"
 }
