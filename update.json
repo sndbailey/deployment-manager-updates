@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.6",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.6/DeploymentManager-Setup-4.2-Build-13.6.exe",
-  "sha256": "1FB7E135DCA9C885CA248914F4B9B67D9FB630E058123C507B00BB31852E92E5",
-  "notes": "Build 13.6 cleans up Portable navigation by showing unavailable Master-only labels in a muted gray non-functional style; prior validated deployment behavior is retained.",
-  "tag": "v4.2-build-13.6"
+  "build": "13.8",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.8/DeploymentManager-Setup-4.2-Build-13.8.exe",
+  "sha256": "9602FED8C46D54C330880E03D63EFD25E74C99E3D8CBF68E93362FAA85799BC0",
+  "notes": "Build 13.8 increases the default and minimum application width so the Install Software Company/Site/Department selectors fit cleanly; Build 13.7 detection fixes and prior validated deployment behavior are retained.",
+  "tag": "v4.2-build-13.8"
 }
