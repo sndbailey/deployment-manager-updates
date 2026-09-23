@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.2",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.2/DeploymentManager-Setup-4.2-Build-13.2.exe",
-  "sha256": "D4CBED5EA94E9B4D9E8251913E37B0B7F6396C94C758A4929A07A80B699CBF72",
-  "notes": "Build 13.2 adds Master Portable Units inventory/tracking and removes Deployment Status from Master navigation while retaining it for Portable/Monitor.",
-  "tag": "v4.2-build-13.2"
+  "build": "13.3",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.3/DeploymentManager-Setup-4.2-Build-13.3.exe",
+  "sha256": "3F1279B2C8BDFB084E3D4B186ABE58096332E33273E30182493347A8BD7D2919",
+  "notes": "Build 13.3 fixes Portable Software and Power & BIOS page separation while retaining Build 13.2 Portable Units inventory and Build 13.1 software detection.",
+  "tag": "v4.2-build-13.3"
 }
