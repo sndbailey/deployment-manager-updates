@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.0",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.0/DeploymentManager-Setup-4.2-Build-13.0.exe",
-  "sha256": "33F2F3E63E045FC245E2A2848F621F3F98BA74BC7D158FC5BD92DF524BA484F3",
-  "notes": "Version 4.2 adds saved Company/Site/Department software defaults and standalone selected-software installation without running the full deployment workflow.",
-  "tag": "v4.2-build-13.0"
+  "build": "13.2",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.2/DeploymentManager-Setup-4.2-Build-13.2.exe",
+  "sha256": "D4CBED5EA94E9B4D9E8251913E37B0B7F6396C94C758A4929A07A80B699CBF72",
+  "notes": "Build 13.2 adds Master Portable Units inventory/tracking and removes Deployment Status from Master navigation while retaining it for Portable/Monitor.",
+  "tag": "v4.2-build-13.2"
 }
