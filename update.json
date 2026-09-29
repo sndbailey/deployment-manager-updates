@@ -1,8 +1,9 @@
 {
   "version": "4.2",
-  "build": "13.10",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.10/DeploymentManager-Setup-4.2-Build-13.10.exe",
-  "sha256": "4FFC6113B2785AF36033D0DAF49076C3AA2F3C8452DA036D604B91A63A7A04D8",
-  "notes": "Build 13.10 introduces the new Deployment Manager brand identity across the main app, Portable app, navigation, and installer while retaining Build 13.9 functionality.",
-  "tag": "v4.2-build-13.10"
+  "build": "13.11",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.11/DeploymentManager-Setup-4.2-Build-13.11.exe",
+  "sha256": "89DE416444887A47DFB22B9E9CEA0E58EDBD555D7A5581A8EB8805D4A280F48C",
+  "notes": "Build 13.11 introduces the new Deployment Manager brand identity across the main app, Portable app, navigation, and installer while retaining Build 13.9 functionality.",
+  "tag": "v4.2-build-13.11"
 }
+
