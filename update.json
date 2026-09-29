@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.8",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.8/DeploymentManager-Setup-4.2-Build-13.8.exe",
-  "sha256": "9602FED8C46D54C330880E03D63EFD25E74C99E3D8CBF68E93362FAA85799BC0",
-  "notes": "Build 13.8 increases the default and minimum application width so the Install Software Company/Site/Department selectors fit cleanly; Build 13.7 detection fixes and prior validated deployment behavior are retained.",
-  "tag": "v4.2-build-13.8"
+  "build": "13.10",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.10/DeploymentManager-Setup-4.2-Build-13.10.exe",
+  "sha256": "4FFC6113B2785AF36033D0DAF49076C3AA2F3C8452DA036D604B91A63A7A04D8",
+  "notes": "Build 13.10 introduces the new Deployment Manager brand identity across the main app, Portable app, navigation, and installer while retaining Build 13.9 functionality.",
+  "tag": "v4.2-build-13.10"
 }
