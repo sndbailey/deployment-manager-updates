@@ -1,9 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.11",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.11/DeploymentManager-Setup-4.2-Build-13.11.exe",
-  "sha256": "89DE416444887A47DFB22B9E9CEA0E58EDBD555D7A5581A8EB8805D4A280F48C",
-  "notes": "Build 13.11 introduces the new Deployment Manager brand identity across the main app, Portable app, navigation, and installer while retaining Build 13.9 functionality.",
-  "tag": "v4.2-build-13.11"
+  "build": "13.12",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.12/DeploymentManager-Setup-4.2-Build-13.12.exe",
+  "sha256": "28EE68E75848874BE3D8E84C8159D18F420DB267D1B88FEDA7C14BC89AE170C5",
+  "notes": "Build 13.12 adds automatic Windows light/dark theme detection and enlarges the Deployment Manager and License Generator taskbar/title-bar icons.",
+  "tag": "v4.2-build-13.12"
 }
-
