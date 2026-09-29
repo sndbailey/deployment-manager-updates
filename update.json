@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.12",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.12/DeploymentManager-Setup-4.2-Build-13.12.exe",
-  "sha256": "28EE68E75848874BE3D8E84C8159D18F420DB267D1B88FEDA7C14BC89AE170C5",
-  "notes": "Build 13.12 adds automatic Windows light/dark theme detection and enlarges the Deployment Manager and License Generator taskbar/title-bar icons.",
-  "tag": "v4.2-build-13.12"
+  "build": "13.14",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.14/DeploymentManager-Setup-4.2-Build-13.14.exe",
+  "sha256": "4813815389F7293BA2DD48D4A29EC21EF0A6013EE5699E5F744D7C996B8D97F9",
+  "notes": "Build 13.14 adds complete Deployment Library backup/restore with license information intentionally excluded.",
+  "tag": "v4.2-build-13.14"
 }
