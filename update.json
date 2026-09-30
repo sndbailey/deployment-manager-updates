@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.16",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.16/DeploymentManager-Setup-4.2-Build-13.16.exe",
-  "sha256": "873F9E2EFBF88EA27EA57113E695641A6F313514250DAED640C1A945A8DDE3DC",
-  "notes": "Build 13.16 makes Install Software load immediately with background installed-app detection and adds visible application-update progress.",
-  "tag": "v4.2-build-13.16"
+  "build": "13.17",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.17/DeploymentManager-Setup-4.2-Build-13.17.exe",
+  "sha256": "13AEE02D33B8C36AC7D66E223BB5ABC56268DC090576B0DAE4908E6FEF66B43A",
+  "notes": "Build 13.17 removes the persistent Install Software progress bar and makes the application-update progress window appear immediately and remain visible through installer launch.",
+  "tag": "v4.2-build-13.17"
 }
