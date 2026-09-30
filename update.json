@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.14",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.14/DeploymentManager-Setup-4.2-Build-13.14.exe",
-  "sha256": "4813815389F7293BA2DD48D4A29EC21EF0A6013EE5699E5F744D7C996B8D97F9",
-  "notes": "Build 13.14 adds complete Deployment Library backup/restore with license information intentionally excluded.",
-  "tag": "v4.2-build-13.14"
+  "build": "13.15",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.15/DeploymentManager-Setup-4.2-Build-13.15.exe",
+  "sha256": "007E98FD212B628983160AE5B6ED6380697E6AAEBAD4D5900E00BE05AE00A000",
+  "notes": "Build 13.15 fixes library restore reliability, adds restore progress and post-restore verification, and preserves local registration.",
+  "tag": "v4.2-build-13.15"
 }
