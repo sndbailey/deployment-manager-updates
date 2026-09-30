@@ -1,8 +1,8 @@
 {
   "version": "4.2",
-  "build": "13.15",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.15/DeploymentManager-Setup-4.2-Build-13.15.exe",
-  "sha256": "007E98FD212B628983160AE5B6ED6380697E6AAEBAD4D5900E00BE05AE00A000",
-  "notes": "Build 13.15 fixes library restore reliability, adds restore progress and post-restore verification, and preserves local registration.",
-  "tag": "v4.2-build-13.15"
+  "build": "13.16",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.16/DeploymentManager-Setup-4.2-Build-13.16.exe",
+  "sha256": "873F9E2EFBF88EA27EA57113E695641A6F313514250DAED640C1A945A8DDE3DC",
+  "notes": "Build 13.16 makes Install Software load immediately with background installed-app detection and adds visible application-update progress.",
+  "tag": "v4.2-build-13.16"
 }
