@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.4",
-  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.4/WSM-Setup-5.0-Build-14.4.exe",
-  "sha256": "1D0716D7C3D8BEC21A1B36730FCB7D45CA72CB8AF27D7B64043E524CC23C27ED",
-  "notes": "WSM 5.0 Build 14.4 corrects the taskbar/application icon transparency and fixes persistent full-interface Dark/Light appearance switching while retaining the 14.3 startup, migration, registration, updater, and uninstall protections.",
-  "tag": "v5.0-build-14.4"
+  "build": "14.5",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.5/WSM-Setup-5.0-Build-14.5.exe",
+  "sha256": "22F2F2F7F694BDC89FF027263AD87F6F28DDFDA0A32C18E6602B32E58FAB04D3",
+  "notes": "WSM 5.0 Build 14.5 extends Light Mode across the full application shell, lightens the Dark Mode slate/navy palette, and improves WSM logo/base visibility while retaining the 14.4 persistence, startup, icon, migration, registration, updater, and uninstall protections.",
+  "tag": "v5.0-build-14.5"
 }
