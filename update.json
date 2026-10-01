@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.8",
-  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.8/WSM-Setup-5.0-Build-14.8.exe",
-  "sha256": "0E9930BA2C01FB282CCFBAB12D05E04C98D40787C4044D1465A8DB4164438BEC",
-  "notes": "WSM 5.0 Build 14.8 adopts the polished WSM monitor/arrow branding and expands Portable Units management with selected-row Update, Rename, Refresh, and Delete Record actions. Deployment, migration, licensing, startup, and application-updater behavior remain unchanged from Build 14.7.",
-  "tag": "v5.0-build-14.8"
+  "build": "14.9",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.9/WSM-Setup-5.0-Build-14.9.exe",
+  "sha256": "485FF0ACDA8F2F34D3E585449DDE9F9EBFF96FDA9F0A9F1955855A99AE158797",
+  "notes": "WSM 5.0 Build 14.9 refines the Windows desktop/taskbar icon proportions and upgrades Portable Units with the approved professional icon-led action bar and information card. Deployment, migration, licensing, startup, Portable synchronization logic, and application-updater behavior remain unchanged from Build 14.8.",
+  "tag": "v5.0-build-14.9"
 }
