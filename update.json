@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.2",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v5.0-build-14.2/WSM-Setup-5.0-Build-14.2.exe",
-  "sha256": "58F9F03547EA5BF8AA775A6934ED4939032E837126B91A62694745A8A2225837",
-  "notes": "WSM 5.0 Build 14.2 applies the selected WSM monitor branding, displays the full Workstation Setup Manager name, blocks uninstall while WSM is running, and retains the corrected 14.1 migration and side-by-side behavior.",
-  "tag": "v5.0-build-14.2"
+  "build": "14.3",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.3/WSM-Setup-5.0-Build-14.3.exe",
+  "sha256": "FD5CC1CE707E04800710A7150A3E3A6EB410624F8241EF7722C6519B8E9ACF90",
+  "notes": "WSM 5.0 Build 14.3 adds the selected white-screen WSM monitor branding, normal foreground startup, persistent Dark/Light appearance switching, a compact View Paths dialog, uninstall protection, and retains the corrected migration and side-by-side behavior.",
+  "tag": "v5.0-build-14.3"
 }
