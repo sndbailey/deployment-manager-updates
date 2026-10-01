@@ -1,2 +1,2 @@
-# deployment-manager-updates
-Deployment Manager application updates
+# workstation-setup-manager-updates
+Workstation Setup Manager application updates
