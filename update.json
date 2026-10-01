@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.6",
-  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.6/WSM-Setup-5.0-Build-14.6.exe",
-  "sha256": "10B6B1545F39907045CF95F64AFA4CFF49D6D2AA54C409944184B5F4BFA0C1B0",
-  "notes": "WSM 5.0 Build 14.6 restores fast first-window startup, adds the complete WSM monitor/stand artwork and a high-visibility Windows icon, defers slow portable-media discovery, and prevents repeated legacy migration scans while retaining full-shell themes, registration, updater, and deployment protections.",
-  "tag": "v5.0-build-14.6"
+  "build": "14.7",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.7/WSM-Setup-5.0-Build-14.7.exe",
+  "sha256": "B846836F0D2D27B807044E94095FD9866B5407D57DE9F4FF0B75FEC166294C8D",
+  "notes": "WSM 5.0 Build 14.7 refines WSM branding only: the in-app monitor mark now sits directly on the navigation surface with no square/tile, and Windows/Portable icons use a clean transparent WSM monitor mark. Deployment, migration, licensing, startup, Portable, and updater behavior remain unchanged from Build 14.6.",
+  "tag": "v5.0-build-14.7"
 }
