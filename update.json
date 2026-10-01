@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.3",
-  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.3/WSM-Setup-5.0-Build-14.3.exe",
-  "sha256": "FD5CC1CE707E04800710A7150A3E3A6EB410624F8241EF7722C6519B8E9ACF90",
-  "notes": "WSM 5.0 Build 14.3 adds the selected white-screen WSM monitor branding, normal foreground startup, persistent Dark/Light appearance switching, a compact View Paths dialog, uninstall protection, and retains the corrected migration and side-by-side behavior.",
-  "tag": "v5.0-build-14.3"
+  "build": "14.4",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.4/WSM-Setup-5.0-Build-14.4.exe",
+  "sha256": "1D0716D7C3D8BEC21A1B36730FCB7D45CA72CB8AF27D7B64043E524CC23C27ED",
+  "notes": "WSM 5.0 Build 14.4 corrects the taskbar/application icon transparency and fixes persistent full-interface Dark/Light appearance switching while retaining the 14.3 startup, migration, registration, updater, and uninstall protections.",
+  "tag": "v5.0-build-14.4"
 }
