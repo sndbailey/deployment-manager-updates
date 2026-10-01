@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.9",
-  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.9/WSM-Setup-5.0-Build-14.9.exe",
-  "sha256": "485FF0ACDA8F2F34D3E585449DDE9F9EBFF96FDA9F0A9F1955855A99AE158797",
-  "notes": "WSM 5.0 Build 14.9 refines the Windows desktop/taskbar icon proportions and upgrades Portable Units with the approved professional icon-led action bar and information card. Deployment, migration, licensing, startup, Portable synchronization logic, and application-updater behavior remain unchanged from Build 14.8.",
-  "tag": "v5.0-build-14.9"
+  "build": "14.10",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.10/WSM-Setup-5.0-Build-14.10.exe",
+  "sha256": "9ACF2DE739AFA05CA7C72FA683118AE9885427B1506CCF4E4A11250632FD6AAE",
+  "notes": "WSM 5.0 Build 14.10 refines the Portable Units action icons with cleaner modern line artwork and makes the information card vertically scrollable so explanatory text is never clipped. Deployment, migration, licensing, startup, Portable synchronization, and updater behavior remain unchanged from Build 14.9.",
+  "tag": "v5.0-build-14.10"
 }
