@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.7",
-  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.7/WSM-Setup-5.0-Build-14.7.exe",
-  "sha256": "B846836F0D2D27B807044E94095FD9866B5407D57DE9F4FF0B75FEC166294C8D",
-  "notes": "WSM 5.0 Build 14.7 refines WSM branding only: the in-app monitor mark now sits directly on the navigation surface with no square/tile, and Windows/Portable icons use a clean transparent WSM monitor mark. Deployment, migration, licensing, startup, Portable, and updater behavior remain unchanged from Build 14.6.",
-  "tag": "v5.0-build-14.7"
+  "build": "14.8",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.8/WSM-Setup-5.0-Build-14.8.exe",
+  "sha256": "0E9930BA2C01FB282CCFBAB12D05E04C98D40787C4044D1465A8DB4164438BEC",
+  "notes": "WSM 5.0 Build 14.8 adopts the polished WSM monitor/arrow branding and expands Portable Units management with selected-row Update, Rename, Refresh, and Delete Record actions. Deployment, migration, licensing, startup, and application-updater behavior remain unchanged from Build 14.7.",
+  "tag": "v5.0-build-14.8"
 }
