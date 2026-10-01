@@ -1,8 +1,8 @@
 {
   "version": "5.0",
-  "build": "14.5",
-  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.5/WSM-Setup-5.0-Build-14.5.exe",
-  "sha256": "22F2F2F7F694BDC89FF027263AD87F6F28DDFDA0A32C18E6602B32E58FAB04D3",
-  "notes": "WSM 5.0 Build 14.5 extends Light Mode across the full application shell, lightens the Dark Mode slate/navy palette, and improves WSM logo/base visibility while retaining the 14.4 persistence, startup, icon, migration, registration, updater, and uninstall protections.",
-  "tag": "v5.0-build-14.5"
+  "build": "14.6",
+  "installer": "https://github.com/sndbailey/workstation-setup-manager-updates/releases/download/v5.0-build-14.6/WSM-Setup-5.0-Build-14.6.exe",
+  "sha256": "10B6B1545F39907045CF95F64AFA4CFF49D6D2AA54C409944184B5F4BFA0C1B0",
+  "notes": "WSM 5.0 Build 14.6 restores fast first-window startup, adds the complete WSM monitor/stand artwork and a high-visibility Windows icon, defers slow portable-media discovery, and prevents repeated legacy migration scans while retaining full-shell themes, registration, updater, and deployment protections.",
+  "tag": "v5.0-build-14.6"
 }
