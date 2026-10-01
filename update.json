@@ -1,8 +1,8 @@
 {
-  "version": "4.2",
-  "build": "13.17",
-  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v4.2-build-13.17/DeploymentManager-Setup-4.2-Build-13.17.exe",
-  "sha256": "13AEE02D33B8C36AC7D66E223BB5ABC56268DC090576B0DAE4908E6FEF66B43A",
-  "notes": "Build 13.17 removes the persistent Install Software progress bar and makes the application-update progress window appear immediately and remain visible through installer launch.",
-  "tag": "v4.2-build-13.17"
+  "version": "5.0",
+  "build": "14.2",
+  "installer": "https://github.com/sndbailey/deployment-manager-updates/releases/download/v5.0-build-14.2/WSM-Setup-5.0-Build-14.2.exe",
+  "sha256": "58F9F03547EA5BF8AA775A6934ED4939032E837126B91A62694745A8A2225837",
+  "notes": "WSM 5.0 Build 14.2 applies the selected WSM monitor branding, displays the full Workstation Setup Manager name, blocks uninstall while WSM is running, and retains the corrected 14.1 migration and side-by-side behavior.",
+  "tag": "v5.0-build-14.2"
 }
